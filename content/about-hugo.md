@@ -9,13 +9,13 @@ Almost written like a poem, but why not write another ~~decent~~ one!?
 
 I'm Rithul, but if natives calls me it will be like "Rithuleeee" with a bit of shrug just because I'm from...  
 Kerala, a beautiful landscape. Such a hostile place that 90% of the younger generation wants to immigrate. Meanwhile i distract myself with art, music and chess and I share some of this delightful chaos on my [Telegram channel](https://t.me/s/mitigatehere).
-![tgchannel](/covert_czar/images/scrcpy.svg)
+![tgchannel](/images/scrcpy.svg)
 
 I know English, Hindi, malayalam, C++  
 Sorry I slipped.  
 Usually I do microblogging in these languages on mastodon or argue with some bots on forums
 
-![](/covert_czar/images/12-32.png)    ![](/covert_czar/images/10-52.png)  
+![blog](/images/12-32.png)    ![](/images/10-52.png)  
 
 
 I am an Expert in Unix systems. If i encounter any problems I'm capable of... **DISTROHOPPING**  
