@@ -16,7 +16,7 @@ I know English, Hindi, malayalam, C++
 Sorry I slipped.  
 Usually I do microblogging in these languages on mastodon or argue with some bots on forums
 
-![blog](/images/12-32.png)    ![](/images/10-52.png)  
+![blog](/covert_czar/images/12-32.png)    ![](/covert_czar/images/10-52.png)  
 
 
 I am an Expert in Unix systems. If i encounter any problems I'm capable of... **DISTROHOPPING**  
