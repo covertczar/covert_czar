@@ -8,7 +8,8 @@ I have an aesthetically curated bio [here](https://text.tchncs.de/czars-blogs/ab
 Almost written like a poem, but why not write another ~~decent~~ one!?
 
 I'm Rithul, but if natives calls me it will be like "Rithuleeee" with a bit of shrug just because I'm from...  
-Kerala, a beautiful landscape. Such a hostile place that 90% of the younger generation wants to immigrate. Meanwhile i distract myself with art, music and chess and I share some of this delightful chaos on my [Telegram channel](https://t.me/s/mitigatehere).
+Kerala, a beautiful landscape. Such a hostile place that 90% of the younger generation wants to immigrate. Yet kerala tourism YouTube channel never fails to deliver.  
+Meanwhile i distract myself with art, music and chess and I share some of this delightful chaos on my [Telegram channel](https://t.me/s/mitigatehere).
 ![tgchannel](/images/scrcpy.svg)
 
 I know English, Hindi, malayalam, C++  
